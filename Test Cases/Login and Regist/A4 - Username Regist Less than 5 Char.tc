@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>A4 - Username Regist Less than 5 Char</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>139a1805-9f45-4e39-b36a-6fb7eb7c61ec</testCaseGuid>
+</TestCaseEntity>
